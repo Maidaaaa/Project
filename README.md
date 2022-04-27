@@ -1,1 +1,2 @@
-***maida_ziric_2020***
+> User login in Android - student project _2020_
+
